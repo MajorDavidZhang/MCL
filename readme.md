@@ -11,7 +11,7 @@ conda activate fs
 ## Evaluation on MMVP
 
 Here we provide the weights of the CLIP ViT models obtained by MCL as described in Section 5.5 of our main paper.
-For evaluating the MCL fine-tuned Vision Transformer (ViT) version of CLIP models on MMVP, refer to `MMVP.ipynb`. The fine-tuned models are available on [OSF](https://osf.io/b79rw/?view_only=c8a6f78611ef432389df7810ed540785). Please download the weights and `tar -xzvf` to the `./weights` directory. 
+For evaluating the MCL fine-tuned Vision Transformer (ViT) version of CLIP models on MMVP, please download the [MMVP_VLM Benchmark](https://huggingface.co/datasets/MMVP/MMVP_VLM) to `./MMVP_VLM` and refer to `MMVP.ipynb`. The fine-tuned model weights are available on [OSF](https://osf.io/b79rw/?view_only=c8a6f78611ef432389df7810ed540785). Please download the weights and `tar -xzvf` to `./weights`. 
 
 ## Fine-Tuning CLIP with MCL
 
