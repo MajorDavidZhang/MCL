@@ -1,5 +1,5 @@
 # Learning the Unlearned: Mitigating Feature Suppression in Contrastive Learning
-This is the official implementation of Multistage Contrastive Learning (MCL) proposed in *Learning the Unlearned: Mitigating Feature Suppression in Contrastive Learning* on ECCV 2024
+This is the official implementation of Multistage Contrastive Learning (MCL) proposed in [*Learning the Unlearned: Mitigating Feature Suppression in Contrastive Learning*](https://arxiv.org/abs/2402.11816) on ECCV 2024
 
 ## Set up
 To get started, create and activate a Conda environment using the provided `environment.yml` file:
